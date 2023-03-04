@@ -1,1 +1,36 @@
-## A technology passionate and contributor in Infrastructure, Cloud, and DevOps space. From India :india:
+## A technology passionate and contributor in Infrastructure, Cloud, and DevOps space.
+
+<p align="left">
+  <a href="https://leetcode.com/anarkh55/">
+    <img src="https://cp-logo.vercel.app/leetcode/anarkh55" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/18562426/anirud55">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/18562426?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/anirud55?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/anirud55?color=green&logo=github">
+  </a>
+  <a href="https://github.com/anirud55">
+    <img src="https://komarev.com/ghpvc/?username=anirud55" alt="visitors" />
+  </a>
+
+</p>
+
+#### Now
+
+- :fire: Interested in Linux SYS Admin, Data Center Automation and Tooling, DevOps and Cloud engineering;
+- :calendar: Looking for contributing to opensource project on infra & cloud domain 
+
+#### Bio
+
+- 🏢 I'm currently working at **IBM Research**
+- ⚙️ I daily use : `.yml`, `.sh`, `.py`, `.go`, `.js`
+- 🌍 I'm mostly active within the **Linux SYS Admin** , **Data Center Automation** , **Test Automation** , **Selenium Test Automation** , **QA Automation Architect**, **Python Community**
+- 🌱 Learning all about **DevOps** , **Blockchain** , **Openshift** , **AI**, **Natural Language Processing (NLP)** , **Python Data Science, Machine Learning, Graph, and Natural Language Processing**
+- 💬 Ping me about **Linux SYS Administration**, **Python**, **Docker**, **RestAPIs**, **Blockchain** , **NEAR**
+- 📫 Reach me: [linkedin.com/in/anirud55](https://www.linkedin.com/in/anirud55/)
+
+
+#### My Current Stack
+
+<img height="48" src="img/redhat-original.svg" alt="RedHat"> <img height="48" src="img/linux-original.svg" alt="Linux"> <img height="48" src="img/ansible-original.svg" alt="Ansible"> <img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/aws-original.svg" alt="AWS">  <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/k8s-original.svg" alt="Kubernetes"> <img height="48" src="img/react-original.svg" alt="react">
